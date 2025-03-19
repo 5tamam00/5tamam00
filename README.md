@@ -1,11 +1,6 @@
 ## Hi, I'm Manita 👋
 
-<!--
-**5tamam00/5tamam00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
-
 👩🏻‍🎓 Final Year Computing Student at Southampton Solent University <br />
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manita-tamang-0353731ba) 
