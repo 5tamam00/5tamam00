@@ -1,6 +1,6 @@
 ## Hi, I'm Manita 👋
 
-👩🏻‍🎓 Final Year Computing Student at Southampton Solent University <br />
+👩🏻‍🎓 Gradudate Computing Student <br />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QRVYtPB5wx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manita-tamang-0353731ba) 
